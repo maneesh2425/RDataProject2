@@ -6,8 +6,10 @@ Language: R
 
 Related Script: "data_analysis.R"
 
-**Variables:**
 **Dataset: UCI HAR Dataset**
+
+**Script Variables:**
+
 **Step 1:**
  - **dir**
 	 - The directory that the dataset is stored in:
