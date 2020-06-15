@@ -81,7 +81,7 @@ Columns(Enclosed in Quotation Marks:
 
  - **Features** (Columns with Numeric Values)
 	
-	**"TimeBodyAccelerometerMean()X"
+	"TimeBodyAccelerometerMean()X"
 
 	"TimeBodyAccelerometerMean()Y"
 
@@ -253,4 +253,4 @@ Columns(Enclosed in Quotation Marks:
 
 	"FrequencyBodyBodyGyroscopeMagnitudeSD()"
 
-	"FrequencyBodyBodyGyroscopeJerkMagnitudeSD()"**
+	"FrequencyBodyBodyGyroscopeJerkMagnitudeSD()"
