@@ -1,7 +1,9 @@
 
 # Code Book
 **Getting and Cleaning Data Project**
+
 By: Syed Abdullah Muzaffar
+
 Language: R
 
 Related Script: "data_analysis.R"
@@ -70,8 +72,12 @@ The **train_*** and  **test_*** data frames are removed
 	 - exported to **"Data2.txt"**
 
 
-**Data2.txt**
-Columns(Enclosed in Quotation Marks):
+DATASET VARIABLES
+
+**Data2.txt**  
+
+Columns (Enclosed in Quotation Marks):
+
  - **"Subject"** Column: 1 |Numeric(Counting) |The Test Subject ID
  - **"Activity"** Column: 2 |String(Converted From Numeric ID to Descriptive String) | The Activity that the Subject is performing
 	-   WALKING : 1
