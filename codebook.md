@@ -80,176 +80,177 @@ Columns(Enclosed in Quotation Marks:
 	-   LAYING: 6
 
  - **Features** (Columns with Numeric Values)
-**"TimeBodyAccelerometerMean()X"
+	
+	**"TimeBodyAccelerometerMean()X"
 
-"TimeBodyAccelerometerMean()Y"
+	"TimeBodyAccelerometerMean()Y"
 
-"TimeBodyAccelerometerMean()Z"
+	"TimeBodyAccelerometerMean()Z"
 
-"TimeGravityAccelerometerMean()X"
+	"TimeGravityAccelerometerMean()X"
 
-"TimeGravityAccelerometerMean()Y"
+	"TimeGravityAccelerometerMean()Y"
 
-"TimeGravityAccelerometerMean()Z"
+	"TimeGravityAccelerometerMean()Z"
 
-"TimeBodyAccelerometerJerkMean()X"
+	"TimeBodyAccelerometerJerkMean()X"
 
-"TimeBodyAccelerometerJerkMean()Y"
+	"TimeBodyAccelerometerJerkMean()Y"
 
-"TimeBodyAccelerometerJerkMean()Z"
+	"TimeBodyAccelerometerJerkMean()Z"
 
-"TimeBodyGyroscopeMean()X"
+	"TimeBodyGyroscopeMean()X"
 
-"TimeBodyGyroscopeMean()Y"
+	"TimeBodyGyroscopeMean()Y"
 
-"TimeBodyGyroscopeMean()Z"
+	"TimeBodyGyroscopeMean()Z"
 
-"TimeBodyGyroscopeJerkMean()X"
+	"TimeBodyGyroscopeJerkMean()X"
 
-"TimeBodyGyroscopeJerkMean()Y"
+	"TimeBodyGyroscopeJerkMean()Y"
 
-"TimeBodyGyroscopeJerkMean()Z"
+	"TimeBodyGyroscopeJerkMean()Z"
 
-"TimeBodyAccelerometerMagnitudeMean()"
+	"TimeBodyAccelerometerMagnitudeMean()"
 
-"TimeGravityAccelerometerMagnitudeMean()"
+	"TimeGravityAccelerometerMagnitudeMean()"
 
-"TimeBodyAccelerometerJerkMagnitudeMean()"
+	"TimeBodyAccelerometerJerkMagnitudeMean()"
 
-"TimeBodyGyroscopeMagnitudeMean()"
+	"TimeBodyGyroscopeMagnitudeMean()"
 
-"TimeBodyGyroscopeJerkMagnitudeMean()"
+	"TimeBodyGyroscopeJerkMagnitudeMean()"
 
-"FrequencyBodyAccelerometerMean()X"
+	"FrequencyBodyAccelerometerMean()X"
 
-"FrequencyBodyAccelerometerMean()Y"
+	"FrequencyBodyAccelerometerMean()Y"
 
-"FrequencyBodyAccelerometerMean()Z"
+	"FrequencyBodyAccelerometerMean()Z"
 
-"FrequencyBodyAccelerometerMeanFrequency()X"
+	"FrequencyBodyAccelerometerMeanFrequency()X"
 
-"FrequencyBodyAccelerometerMeanFrequency()Y"
+	"FrequencyBodyAccelerometerMeanFrequency()Y"
 
-"FrequencyBodyAccelerometerMeanFrequency()Z"
+	"FrequencyBodyAccelerometerMeanFrequency()Z"
 
-"FrequencyBodyAccelerometerJerkMean()X"
+	"FrequencyBodyAccelerometerJerkMean()X"
 
-"FrequencyBodyAccelerometerJerkMean()Y"
+	"FrequencyBodyAccelerometerJerkMean()Y"
 
-"FrequencyBodyAccelerometerJerkMean()Z"
+	"FrequencyBodyAccelerometerJerkMean()Z"
 
-"FrequencyBodyAccelerometerJerkMeanFrequency()X"
+	"FrequencyBodyAccelerometerJerkMeanFrequency()X"
 
-"FrequencyBodyAccelerometerJerkMeanFrequency()Y"
+	"FrequencyBodyAccelerometerJerkMeanFrequency()Y"
 
-"FrequencyBodyAccelerometerJerkMeanFrequency()Z"
+	"FrequencyBodyAccelerometerJerkMeanFrequency()Z"
 
-"FrequencyBodyGyroscopeMean()X"
+	"FrequencyBodyGyroscopeMean()X"
 
-"FrequencyBodyGyroscopeMean()Y"
+	"FrequencyBodyGyroscopeMean()Y"
 
-"FrequencyBodyGyroscopeMean()Z"
+	"FrequencyBodyGyroscopeMean()Z"
 
-"FrequencyBodyGyroscopeMeanFrequency()X"
+	"FrequencyBodyGyroscopeMeanFrequency()X"
 
-"FrequencyBodyGyroscopeMeanFrequency()Y"
+	"FrequencyBodyGyroscopeMeanFrequency()Y"
 
-"FrequencyBodyGyroscopeMeanFrequency()Z"
+	"FrequencyBodyGyroscopeMeanFrequency()Z"
 
-"FrequencyBodyAccelerometerMagnitudeMean()"
+	"FrequencyBodyAccelerometerMagnitudeMean()"
 
-"FrequencyBodyAccelerometerMagnitudeMeanFrequency()"
+	"FrequencyBodyAccelerometerMagnitudeMeanFrequency()"
 
-"FrequencyBodyBodyAccelerometerJerkMagnitudeMean()"
+	"FrequencyBodyBodyAccelerometerJerkMagnitudeMean()"
 
-"FrequencyBodyBodyAccelerometerJerkMagnitudeMeanFrequency()"
+	"FrequencyBodyBodyAccelerometerJerkMagnitudeMeanFrequency()"
 
-"FrequencyBodyBodyGyroscopeMagnitudeMean()"
+	"FrequencyBodyBodyGyroscopeMagnitudeMean()"
 
-"FrequencyBodyBodyGyroscopeMagnitudeMeanFrequency()"
+	"FrequencyBodyBodyGyroscopeMagnitudeMeanFrequency()"
 
-"FrequencyBodyBodyGyroscopeJerkMagnitudeMean()"
+	"FrequencyBodyBodyGyroscopeJerkMagnitudeMean()"
 
-"FrequencyBodyBodyGyroscopeJerkMagnitudeMeanFrequency()"
+	"FrequencyBodyBodyGyroscopeJerkMagnitudeMeanFrequency()"
 
-"Angle(TimeBodyAccelerometerMean,Gravity)"
+	"Angle(TimeBodyAccelerometerMean,Gravity)"
 
-"Angle(TimeBodyAccelerometerJerkMean,GravityMean)"
+	"Angle(TimeBodyAccelerometerJerkMean,GravityMean)"
 
-"Angle(TimeBodyGyroscopeMean,GravityMean)"
+	"Angle(TimeBodyGyroscopeMean,GravityMean)"
 
-"Angle(TimeBodyGyroscopeJerkMean,GravityMean)"
+	"Angle(TimeBodyGyroscopeJerkMean,GravityMean)"
 
-"Angle(X,GravityMean)"
+	"Angle(X,GravityMean)"
 
-"Angle(Y,GravityMean)"
+	"Angle(Y,GravityMean)"
 
-"Angle(Z,GravityMean)"
+	"Angle(Z,GravityMean)"
 
-"TimeBodyAccelerometerSD()X"
+	"TimeBodyAccelerometerSD()X"
 
-"TimeBodyAccelerometerSD()Y"
+	"TimeBodyAccelerometerSD()Y"
 
-"TimeBodyAccelerometerSD()Z"
+	"TimeBodyAccelerometerSD()Z"
 
-"TimeGravityAccelerometerSD()X"
+	"TimeGravityAccelerometerSD()X"
 
-"TimeGravityAccelerometerSD()Y"
+	"TimeGravityAccelerometerSD()Y"
 
-"TimeGravityAccelerometerSD()Z"
+	"TimeGravityAccelerometerSD()Z"
 
-"TimeBodyAccelerometerJerkSD()X"
+	"TimeBodyAccelerometerJerkSD()X"
 
-"TimeBodyAccelerometerJerkSD()Y"
+	"TimeBodyAccelerometerJerkSD()Y"
 
-"TimeBodyAccelerometerJerkSD()Z"
+	"TimeBodyAccelerometerJerkSD()Z"
 
-"TimeBodyGyroscopeSD()X"
+	"TimeBodyGyroscopeSD()X"
 
-"TimeBodyGyroscopeSD()Y"
+	"TimeBodyGyroscopeSD()Y"
 
-"TimeBodyGyroscopeSD()Z"
+	"TimeBodyGyroscopeSD()Z"
 
-"TimeBodyGyroscopeJerkSD()X"
+	"TimeBodyGyroscopeJerkSD()X"
 
-"TimeBodyGyroscopeJerkSD()Y"
+	"TimeBodyGyroscopeJerkSD()Y"
 
-"TimeBodyGyroscopeJerkSD()Z"
+	"TimeBodyGyroscopeJerkSD()Z"
 
 
-"TimeBodyAccelerometerMagnitudeSD()"
+	"TimeBodyAccelerometerMagnitudeSD()"
 
 
-"TimeGravityAccelerometerMagnitudeSD()"
+	"TimeGravityAccelerometerMagnitudeSD()"
 
-"TimeBodyAccelerometerJerkMagnitudeSD()"
+	"TimeBodyAccelerometerJerkMagnitudeSD()"
 
-"TimeBodyGyroscopeMagnitudeSD()"
+	"TimeBodyGyroscopeMagnitudeSD()"
 
-"TimeBodyGyroscopeJerkMagnitudeSD()"
+	"TimeBodyGyroscopeJerkMagnitudeSD()"
 
-"FrequencyBodyAccelerometerSD()X"
+	"FrequencyBodyAccelerometerSD()X"
 
-"FrequencyBodyAccelerometerSD()Y"
+	"FrequencyBodyAccelerometerSD()Y"
 
-"FrequencyBodyAccelerometerSD()Z"
+	"FrequencyBodyAccelerometerSD()Z"
 
-"FrequencyBodyAccelerometerJerkSD()X"
+	"FrequencyBodyAccelerometerJerkSD()X"
 
-"FrequencyBodyAccelerometerJerkSD()Y"
+	"FrequencyBodyAccelerometerJerkSD()Y"
 
-"FrequencyBodyAccelerometerJerkSD()Z"
+	"FrequencyBodyAccelerometerJerkSD()Z"
 
-"FrequencyBodyGyroscopeSD()X"
+	"FrequencyBodyGyroscopeSD()X"
 
-"FrequencyBodyGyroscopeSD()Y"
+	"FrequencyBodyGyroscopeSD()Y"
 
-"FrequencyBodyGyroscopeSD()Z"
+	"FrequencyBodyGyroscopeSD()Z"
 
-"FrequencyBodyAccelerometerMagnitudeSD()"
+	"FrequencyBodyAccelerometerMagnitudeSD()"
 
-"FrequencyBodyBodyAccelerometerJerkMagnitudeSD()"
+	"FrequencyBodyBodyAccelerometerJerkMagnitudeSD()"
 
-"FrequencyBodyBodyGyroscopeMagnitudeSD()"
+	"FrequencyBodyBodyGyroscopeMagnitudeSD()"
 
-"FrequencyBodyBodyGyroscopeJerkMagnitudeSD()"**
+	"FrequencyBodyBodyGyroscopeJerkMagnitudeSD()"**
