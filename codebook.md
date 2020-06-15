@@ -69,7 +69,7 @@ The **train_*** and  **test_*** data frames are removed
 
 
 **Data2.txt**
-Columns(Enclosed in Quotation Marks:
+Columns(Enclosed in Quotation Marks):
  - **"Subject"**(The Test Subject ID)
  - **"Activity"** (Converted From Numeric ID to Descriptive String)
 	-   WALKING : 1
