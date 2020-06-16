@@ -72,7 +72,7 @@ The **train_*** and  **test_*** data frames are removed
 	 - exported to **"Data2.txt"**
 
 
-DATASET VARIABLES
+**Dataset Variables:**
 
 **Data2.txt**  
 
