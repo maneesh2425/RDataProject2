@@ -20,4 +20,4 @@ Files:
 	 - contains variable names, and their descriptions, and any calculations performed on them
 
  - "Data2.txt"
-	 - -contains the data for the averages calculated in the final step of the project
+	 - contains the data for the averages calculated in the final step of the project
